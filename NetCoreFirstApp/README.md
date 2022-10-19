@@ -1,3 +1,0 @@
-"# NetCoreFirstApp" 
-"# NetCoreFirstApp" 
-"# NetCoreFirstApp" 
