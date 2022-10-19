@@ -12,7 +12,7 @@ namespace NetCoreFirstApp
 {
     public class Startup
     {
-        //Configure Services metodu içerisine services.AddMvc() ekleyerek mvc projesi olduğunu bildirdik
+        //Configure Services metodu içerisine services.AddMvc() ekleyerek mvc projesi olduğunu bildirdik.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc(options => options.EnableEndpointRouting = false);
